@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+}
+
+.outer-div {
+    height: 100%;
+    padding: 30px;
+}
+.inner-div {
+    margin: auto;
+    width: 599px;
+    height: 800px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.item {
+    text-align: center;
+}
+.item img {
+    width: 70%;
+}
