@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bojzi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://poslek.com
+  * I am bojzi (https://keybase.io/bojzi) on keybase.
+  * I have a public key ASB0myVygyBNwbYn6iKCAfwj8V7zyslpxID4z9aVtpfPYwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120749b257283204dc1b627ea228201fc23f15ef3cac969c480f8cfd695b697cf630a",
+      "host": "keybase.io",
+      "kid": "0120749b257283204dc1b627ea228201fc23f15ef3cac969c480f8cfd695b697cf630a",
+      "uid": "fb8df4711965b5c21e41165d2bdafc00",
+      "username": "bojzi"
+    },
+    "merkle_root": {
+      "ctime": 1532805738,
+      "hash": "856ddb7ce96435dd90fac939a5b22624af37d924456fc5e6b56900c5fc71e8a68309778db993f4b030218090b378ef9625138ead5649c98d2afaaaf93d67e463",
+      "hash_meta": "22c1c819bdd2bd69fba216d44e5378b8445ee80ffcc5825ca99e7dede7f08474",
+      "seqno": 3349381
+    },
+    "service": {
+      "entropy": "fdUJbEQdtpsFaCiMfV6zj9jK",
+      "hostname": "poslek.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532805775,
+  "expire_in": 504576000,
+  "prev": "b001357475ad3596494561554a232bbaa58a6164599cfbad00f6dfa513dae611",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdJslcoMgTcG2J+oiggH8I/Fe88rJacSA+M/WlbaXz2MKp3BheWxvYWTESpcCFMQgsAE1dHWtNZZJRWFVSiMruqWKYWRZnPutAPbfpRPa5hHEIHUfw1mU/K9i46XsF2j2+qqpireTHBGRyBG5DEnh+jkyAgHCo3NpZ8RArYk1Z4uHlxvLbg1hBIzh2uF27tT8CNe6LZmZSQX7ASuLKne0hcbAVrATeIny93Nis5Po0152vgdBrT6DqAeHBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPipJsXKMjSKYQURuhAfyrHRivkJVvV9vCP+yBTn659Mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bojzi
+
+==================================================================
