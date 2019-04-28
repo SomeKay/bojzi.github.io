@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 
-.outer-div {
+/* .outer-div {
     height: 100%;
     padding: 30px;
 }
@@ -24,4 +24,36 @@ body {
 }
 .item img {
     width: 70%;
+} */
+
+.container {
+    display: grid;
+    grid-row-gap: 30px;
+    grid-template-columns: 100%;
+    grid-template-rows: 60% 40%;
+    height: 100%;
+}
+
+.logo {
+    justify-self: center;
+    align-self: end;
+}
+
+.logo img {
+    max-width: 320px;
+    width: 100%;
+}
+
+.links {
+    justify-self: center;
+    align-self: start;
+}
+
+.links a {
+    margin: 5px;
+    text-decoration: none;
+}
+
+.links a img {
+    width: 36px;
 }
